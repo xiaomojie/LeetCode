@@ -36,4 +36,25 @@ class Solution(object):
                 last_max_reach = current_max_reach
         return count
 
+    def jump2(self, nums):
+        if len(nums) < 2:
+            return 0
+
+        level = 0
+        currentMax = 0
+        i = 0
+        next_max = 0
+        while currentMax - i + 1 > 0:
+            level += 1
+            while i <= currentMax:
+                next_max = max(next_max, nums[i] + i)
+                if next_max >= len(nums) - 1:
+                    return level
+                i += 1
+            currentMax = next_max
+
+        return 0
+
+print(Solution().jump2([2,2,2,1,1]))
+
 
