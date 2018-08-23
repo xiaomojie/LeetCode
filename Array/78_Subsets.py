@@ -19,7 +19,6 @@ Output:
 ]
 """
 
-
 class Solution(object):
     def subsets(self, nums):
         """
@@ -32,16 +31,12 @@ class Solution(object):
         return results
 
     def backtrack(self, results, templist, candidates, remain, start):
-        length = remain
-        if length == 0:
+        if remain == 0:
             results.append(list(templist))
         else:
             for i in range(start, len(candidates)):
                 templist.append(candidates[i])
-                length -= 1
-                self.backtrack(results, templist, candidates, length, i+1)
+                self.backtrack(results, templist, candidates, remain-1, i+1)
                 templist.pop()
-                length = remain
-
 nums = [1,2,3,4]
 print(Solution().subsets(nums))
