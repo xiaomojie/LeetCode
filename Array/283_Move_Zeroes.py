@@ -41,3 +41,5 @@ class Solution:
 nums = [0,1,0,3,12]
 Solution().moveZeroes1(nums)
 print(nums)
+
+##test
