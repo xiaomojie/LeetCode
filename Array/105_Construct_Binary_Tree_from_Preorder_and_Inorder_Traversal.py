@@ -19,6 +19,7 @@ Return the following binary tree:
 
 """
 # 由前序遍历和中序遍历确定树结构
+# 前序遍历的第一个节点为根节点
 
 # Definition for a binary tree node.
 class TreeNode(object):
