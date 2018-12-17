@@ -4,6 +4,7 @@
     <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Array/1_two_sum.py" afterPath="$PROJECT_DIR$/Array/1_two_sum.py" />
+      <change beforePath="$PROJECT_DIR$/Array/532_K-diff_Pairs_in_an_Array.py" afterPath="$PROJECT_DIR$/Array/532_K-diff_Pairs_in_an_Array.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,21 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1_two_sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1_two_sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/1_two_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="532_K-diff_Pairs_in_an_Array.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="532_K-diff_Pairs_in_an_Array.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Array/532_K-diff_Pairs_in_an_Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            <state relative-caret-position="432">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,12 +64,12 @@
         <option value="$PROJECT_DIR$/Array/414_Third_Maximum_Number.py" />
         <option value="$PROJECT_DIR$/Array/448_Find_All_Numbers_Disappeared_in_an_Array.py" />
         <option value="$PROJECT_DIR$/Array/485_Max_Consecutive_Ones.py" />
-        <option value="$PROJECT_DIR$/Array/532_K-diff_Pairs_in_an_Array.py" />
         <option value="$PROJECT_DIR$/Array/1_two_sum.py" />
+        <option value="$PROJECT_DIR$/Array/532_K-diff_Pairs_in_an_Array.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="196" />
     <option name="y" value="42" />
     <option name="width" value="1402" />
@@ -178,7 +179,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="42" width="1402" height="1022" extended-state="1" />
+    <frame x="196" y="42" width="1402" height="1022" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24442793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -359,18 +360,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/532_K-diff_Pairs_in_an_Array.py">
+    <entry file="file://$PROJECT_DIR$/Array/1_two_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        <state relative-caret-position="405">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Array/1_two_sum.py">
+    <entry file="file://$PROJECT_DIR$/Array/532_K-diff_Pairs_in_an_Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="432">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
