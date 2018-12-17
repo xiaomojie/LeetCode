@@ -1,4 +1,3 @@
-#33
 """
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -13,6 +12,7 @@ return [0, 1].
 """
 # Time:  O(n)
 # Space: O(n)
+
 
 def twoSum_1(nums, target):
     """
