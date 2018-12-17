@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Array/485_Max_Consecutive_Ones.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Array/1_two_sum.py" afterPath="$PROJECT_DIR$/Array/1_two_sum.py" />
-    </list>
+    <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
