@@ -43,5 +43,6 @@ class Solution:
                 res.append(x)
         return res
 
+
 words = ["Hello", "Alaska", "Dad", "Peace"]
 print(Solution().findWords(words))
