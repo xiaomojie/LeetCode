@@ -17,6 +17,7 @@ Note:
 The length of the given array is in range [2, 10,000], and will be even.
 The number in given array is in range [-100,000, 100,000].
 """
+from collections import Counter
 
 
 class Solution:
@@ -25,3 +26,7 @@ class Solution:
         :type candies: List[int]
         :rtype: int
         """
+        return min(len(set(candies)), len(candies)//2 )
+
+
+print(Solution().distributeCandies([1,1,2,2,3,3]))

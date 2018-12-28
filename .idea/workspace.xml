@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify">
-      <change beforePath="$PROJECT_DIR$/Hash Table/500_Keyboard_Row.py" afterPath="$PROJECT_DIR$/Hash Table/500_Keyboard_Row.py" />
+      <change beforePath="$PROJECT_DIR$/Hash Table/575_Distribute_Candies.py" afterPath="$PROJECT_DIR$/Hash Table/575_Distribute_Candies.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,8 +56,8 @@
       <file leaf-file-name="575_Distribute_Candies.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hash Table/575_Distribute_Candies.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+            <state relative-caret-position="342">
+              <caret line="31" column="50" lean-forward="true" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -123,7 +123,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="528" />
+    <option name="x" value="700" />
     <option name="width" value="1402" />
     <option name="height" value="1030" />
   </component>
@@ -183,25 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.500_Keyboard_Row">
-    <configuration name="389_Find_the_Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash Table" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash Table/389_Find_the_Difference.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.575_Distribute_Candies">
     <configuration name="409_Longest_Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,20 +256,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="575_Distribute_Candies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash Table" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash Table/575_Distribute_Candies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.389_Find_the_Difference" />
-      <item index="1" class="java.lang.String" itemvalue="Python.409_Longest_Palindrome" />
-      <item index="2" class="java.lang.String" itemvalue="Python.438_Find_All_Anagrams_in_a_String" />
-      <item index="3" class="java.lang.String" itemvalue="Python.463_Island_Perimeter" />
-      <item index="4" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
+      <item index="0" class="java.lang.String" itemvalue="Python.409_Longest_Palindrome" />
+      <item index="1" class="java.lang.String" itemvalue="Python.438_Find_All_Anagrams_in_a_String" />
+      <item index="2" class="java.lang.String" itemvalue="Python.463_Island_Perimeter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
+      <item index="4" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
-        <item index="1" class="java.lang.String" itemvalue="Python.463_Island_Perimeter" />
-        <item index="2" class="java.lang.String" itemvalue="Python.438_Find_All_Anagrams_in_a_String" />
-        <item index="3" class="java.lang.String" itemvalue="Python.409_Longest_Palindrome" />
-        <item index="4" class="java.lang.String" itemvalue="Python.389_Find_the_Difference" />
+        <item index="0" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
+        <item index="1" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
+        <item index="2" class="java.lang.String" itemvalue="Python.463_Island_Perimeter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.438_Find_All_Anagrams_in_a_String" />
+        <item index="4" class="java.lang.String" itemvalue="Python.409_Longest_Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +344,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="528" y="0" width="1402" height="1030" extended-state="0" />
+    <frame x="700" y="0" width="1402" height="1030" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21471025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -766,8 +766,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hash Table/575_Distribute_Candies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        <state relative-caret-position="342">
+          <caret line="31" column="50" lean-forward="true" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding />
         </state>
       </provider>
