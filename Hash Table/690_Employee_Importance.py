@@ -17,6 +17,8 @@ The maximum number of employees won't exceed 2000.
 
 
 # Employee info
+"""
+# Employee info
 class Employee:
     def __init__(self, id, importance, subordinates):
         # It's the unique id of each node.
@@ -26,6 +28,7 @@ class Employee:
         self.importance = importance
         # the id of direct subordinates
         self.subordinates = subordinates
+"""
 
 
 class Solution:
@@ -35,3 +38,13 @@ class Solution:
         :type id: int
         :rtype: int
         """
+
+        dic_emp = {employee.id: employee for employee in employees}
+
+        def dfs(id):
+            sub_importance = sum([dfs(sub_id) for sub_id in dic_emp[id].subordinates])
+            return dic_emp[id].importance + sub_importance
+
+        return dfs(id)
+
+

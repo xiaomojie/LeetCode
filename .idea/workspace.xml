@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Hash Table/690_Employee_Importance.py" afterPath="$PROJECT_DIR$/Hash Table/690_Employee_Importance.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,8 +97,8 @@
       <file leaf-file-name="690_Employee_Importance.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Hash Table/690_Employee_Importance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="864">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -167,7 +168,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="528" />
+    <option name="x" value="497" />
+    <option name="y" value="25" />
     <option name="width" value="1402" />
     <option name="height" value="1030" />
   </component>
@@ -186,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -208,7 +211,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,25 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.645_Set_Mismatch">
-    <configuration name="463_Island_Perimeter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash Table" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash Table/463_Island_Perimeter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.690_Employee_Importance">
     <configuration name="500_Keyboard_Row" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,20 +302,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="690_Employee_Importance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash Table" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash Table/690_Employee_Importance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.463_Island_Perimeter" />
-      <item index="1" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
-      <item index="2" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
-      <item index="3" class="java.lang.String" itemvalue="Python.599_Minimum_Index_Sum_of_Two_Lists" />
-      <item index="4" class="java.lang.String" itemvalue="Python.645_Set_Mismatch" />
+      <item index="0" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
+      <item index="1" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
+      <item index="2" class="java.lang.String" itemvalue="Python.599_Minimum_Index_Sum_of_Two_Lists" />
+      <item index="3" class="java.lang.String" itemvalue="Python.645_Set_Mismatch" />
+      <item index="4" class="java.lang.String" itemvalue="Python.690_Employee_Importance" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.645_Set_Mismatch" />
-        <item index="1" class="java.lang.String" itemvalue="Python.599_Minimum_Index_Sum_of_Two_Lists" />
-        <item index="2" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
-        <item index="3" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
-        <item index="4" class="java.lang.String" itemvalue="Python.463_Island_Perimeter" />
+        <item index="0" class="java.lang.String" itemvalue="Python.690_Employee_Importance" />
+        <item index="1" class="java.lang.String" itemvalue="Python.645_Set_Mismatch" />
+        <item index="2" class="java.lang.String" itemvalue="Python.599_Minimum_Index_Sum_of_Two_Lists" />
+        <item index="3" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
+        <item index="4" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +390,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="528" y="0" width="1402" height="1030" extended-state="1" />
+    <frame x="497" y="25" width="1402" height="1030" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21471025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -396,7 +398,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885087" sideWeight="0.50297177" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28692493" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2857143" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -799,8 +801,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Hash Table/690_Employee_Importance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="864">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
