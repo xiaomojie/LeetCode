@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify">
-      <change beforePath="$PROJECT_DIR$/Hash Table/690_Employee_Importance.py" afterPath="$PROJECT_DIR$/Hash Table/690_Employee_Importance.py" />
-    </list>
+    <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,16 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="447_Number_of_Boomerangs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hash Table/447_Number_of_Boomerangs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="438_Find_All_Anagrams_in_a_String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hash Table/438_Find_All_Anagrams_in_a_String.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="706_Design_HashMap.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="706_Design_HashMap.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hash Table/706_Design_HashMap.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
               <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="720_Longest_Word_in_Dictionary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hash Table/720_Longest_Word_in_Dictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -166,6 +164,7 @@
         <option value="$PROJECT_DIR$/Hash Table/705_Design_HashSet.py" />
         <option value="$PROJECT_DIR$/Hash Table/706_Design_HashMap.py" />
         <option value="$PROJECT_DIR$/Hash Table/706_Design_HashMap-1.py" />
+        <option value="$PROJECT_DIR$/Hash Table/720_Longest_Word_in_Dictionary.py" />
       </list>
     </option>
   </component>
@@ -230,25 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.690_Employee_Importance">
-    <configuration name="500_Keyboard_Row" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash Table" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash Table/500_Keyboard_Row.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.720_Longest_Word_in_Dictionary">
     <configuration name="575_Distribute_Candies" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,20 +302,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="720_Longest_Word_in_Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hash Table" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash Table/720_Longest_Word_in_Dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
-      <item index="1" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
-      <item index="2" class="java.lang.String" itemvalue="Python.599_Minimum_Index_Sum_of_Two_Lists" />
-      <item index="3" class="java.lang.String" itemvalue="Python.645_Set_Mismatch" />
-      <item index="4" class="java.lang.String" itemvalue="Python.690_Employee_Importance" />
+      <item index="0" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
+      <item index="1" class="java.lang.String" itemvalue="Python.599_Minimum_Index_Sum_of_Two_Lists" />
+      <item index="2" class="java.lang.String" itemvalue="Python.645_Set_Mismatch" />
+      <item index="3" class="java.lang.String" itemvalue="Python.690_Employee_Importance" />
+      <item index="4" class="java.lang.String" itemvalue="Python.720_Longest_Word_in_Dictionary" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.690_Employee_Importance" />
-        <item index="1" class="java.lang.String" itemvalue="Python.645_Set_Mismatch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.599_Minimum_Index_Sum_of_Two_Lists" />
-        <item index="3" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
-        <item index="4" class="java.lang.String" itemvalue="Python.500_Keyboard_Row" />
+        <item index="0" class="java.lang.String" itemvalue="Python.720_Longest_Word_in_Dictionary" />
+        <item index="1" class="java.lang.String" itemvalue="Python.690_Employee_Importance" />
+        <item index="2" class="java.lang.String" itemvalue="Python.645_Set_Mismatch" />
+        <item index="3" class="java.lang.String" itemvalue="Python.599_Minimum_Index_Sum_of_Two_Lists" />
+        <item index="4" class="java.lang.String" itemvalue="Python.575_Distribute_Candies" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +398,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885087" sideWeight="0.50297177" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2857143" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -447,13 +446,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Array/581_Shortest_Unsorted_Continuous_Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Array/118_Pascal's_Triangle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -807,6 +799,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hash Table/720_Longest_Word_in_Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
           <folding />
         </state>
       </provider>
