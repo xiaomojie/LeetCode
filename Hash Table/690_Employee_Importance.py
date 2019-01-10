@@ -17,6 +17,8 @@ The maximum number of employees won't exceed 2000.
 
 
 # Employee info
+from collections import deque
+
 """
 # Employee info
 class Employee:
@@ -32,7 +34,8 @@ class Employee:
 
 
 class Solution:
-    def getImportance(self, employees, id):
+    # dfs
+    def getImportance1(self, employees, id):
         """
         :type employees: Employee
         :type id: int
@@ -47,4 +50,16 @@ class Solution:
 
         return dfs(id)
 
+    # bfs
+    def getImportance(self, employees, id):
+        dic_emp = {employee.id:employee for employee in employees}
+        substack = deque()  #双端队列
+        substack.append(id)
+        res = 0
+        while substack:
+            s = substack.popleft()
+            res += dic_emp[s].importance
+            for p in dic_emp[s].subordinates:
+                substack.append(p)
+        return res
 
