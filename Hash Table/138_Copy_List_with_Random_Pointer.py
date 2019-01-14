@@ -39,3 +39,8 @@ class Solution(object):
         dic[None] = None
         n = head
         while n:
+            dic[n].label = n.label
+            dic[n].next = dic[n.next]
+            dic[n].random = dic[n.random]
+            n = n.next
+        return dic.get(head)
