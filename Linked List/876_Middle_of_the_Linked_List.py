@@ -32,6 +32,8 @@ The number of nodes in the given list will be between 1 and 100.
 #         self.next = None
 
 class Solution:
+    # 这个函数可以获取到中间节点，如果是单数，则为中间，
+    # 如果是双数（中间节点有两个），则为第二个中间节点，可以记住，后续很多地方用的到
     def middleNode(self, head):
         """
         :type head: ListNode
@@ -42,4 +44,5 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
         return slow
+
 
