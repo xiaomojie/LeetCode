@@ -34,7 +34,7 @@ class Solution:
 
     # 递归
     def reverseList(self, head):
-        def _reverse(node, pre = None):
+        def _reverse(node, pre=None):
             if not node:
                 return pre
             n = node.next

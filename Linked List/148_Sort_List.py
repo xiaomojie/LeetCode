@@ -18,7 +18,7 @@ class ListNode:
         self.val = x
         self.next = None
 
-# 这个题挺好的，归并排序，使用到了链表找中间位，和链表比较大小
+# 这个题挺好的，归并排序，使用到了链表找中间位，和链表比较大小，合并
 # 合并两个函数，两个函数都在很多地方可以用到
 class Solution:
     def sortList(self, head):
