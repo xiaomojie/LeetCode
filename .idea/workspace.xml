@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify" />
+    <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify">
+      <change beforePath="$PROJECT_DIR$/Math/67_Add_Binary.py" afterPath="$PROJECT_DIR$/Math/67_Add_Binary.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="143_Reorder_List.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Linked List/143_Reorder_List.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1404">
-              <caret line="52" column="26" lean-forward="false" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="206_Reverse_Linked_List.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Linked List/206_Reverse_Linked_List.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,6 +63,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="69_Sqrt.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Math/69_Sqrt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="43_Multiply_Strings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/43_Multiply_Strings.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,18 +86,18 @@
       <file leaf-file-name="50_Pow.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/50_Pow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="31" selection-end-column="76" />
+            <state relative-caret-position="348">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="67_Add_Binary.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="67_Add_Binary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/67_Add_Binary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="347">
+              <caret line="28" column="71" lean-forward="false" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -104,7 +106,7 @@
       <file leaf-file-name="60_Permutation_Sequence.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/60_Permutation_Sequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
+            <state relative-caret-position="327">
               <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
               <folding />
             </state>
@@ -126,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hash Table/349_Intersection_of_Two_Arrays.py" />
         <option value="$PROJECT_DIR$/Hash Table/350_Intersection_of_Two_Arrays_II.py" />
         <option value="$PROJECT_DIR$/Hash Table/387_First_Unique_Character_in_a_String.py" />
         <option value="$PROJECT_DIR$/Hash Table/389_Find_the_Difference.py" />
@@ -177,6 +178,7 @@
         <option value="$PROJECT_DIR$/Math/50_Pow.py" />
         <option value="$PROJECT_DIR$/Math/60_Permutation_Sequence.py" />
         <option value="$PROJECT_DIR$/Math/67_Add_Binary.py" />
+        <option value="$PROJECT_DIR$/Math/69_Sqrt.py" />
       </list>
     </option>
   </component>
@@ -242,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.50_Pow">
+  <component name="RunManager" selected="Python.67_Add_Binary">
     <configuration name="12_Integer_to_Roman" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,24 +263,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="234_Palindrome_Linked_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Linked List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linked List/234_Palindrome_Linked_List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="50_Pow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,6 +276,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/50_Pow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="67_Add_Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/67_Add_Binary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,19 +336,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.234_Palindrome_Linked_List" />
-      <item index="1" class="java.lang.String" itemvalue="Python.876_Middle_of_the_Linked_List" />
-      <item index="2" class="java.lang.String" itemvalue="Python.725_Split_Linked_List_in_Parts" />
-      <item index="3" class="java.lang.String" itemvalue="Python.12_Integer_to_Roman" />
-      <item index="4" class="java.lang.String" itemvalue="Python.50_Pow" />
+      <item index="0" class="java.lang.String" itemvalue="Python.876_Middle_of_the_Linked_List" />
+      <item index="1" class="java.lang.String" itemvalue="Python.725_Split_Linked_List_in_Parts" />
+      <item index="2" class="java.lang.String" itemvalue="Python.12_Integer_to_Roman" />
+      <item index="3" class="java.lang.String" itemvalue="Python.50_Pow" />
+      <item index="4" class="java.lang.String" itemvalue="Python.67_Add_Binary" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.50_Pow" />
-        <item index="1" class="java.lang.String" itemvalue="Python.12_Integer_to_Roman" />
-        <item index="2" class="java.lang.String" itemvalue="Python.725_Split_Linked_List_in_Parts" />
-        <item index="3" class="java.lang.String" itemvalue="Python.876_Middle_of_the_Linked_List" />
-        <item index="4" class="java.lang.String" itemvalue="Python.234_Palindrome_Linked_List" />
+        <item index="0" class="java.lang.String" itemvalue="Python.67_Add_Binary" />
+        <item index="1" class="java.lang.String" itemvalue="Python.50_Pow" />
+        <item index="2" class="java.lang.String" itemvalue="Python.12_Integer_to_Roman" />
+        <item index="3" class="java.lang.String" itemvalue="Python.725_Split_Linked_List_in_Parts" />
+        <item index="4" class="java.lang.String" itemvalue="Python.876_Middle_of_the_Linked_List" />
       </list>
     </recent_temporary>
   </component>
@@ -409,9 +411,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21471025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885087" sideWeight="0.50297177" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29656863" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29656863" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -459,13 +461,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hash Table/242_Valid_Anagram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hash Table/389_Find_the_Difference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -790,14 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/29_Divide_Two_Integers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Math/43_Multiply_Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -806,26 +793,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Math/50_Pow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Math/60_Permutation_Sequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
+        <state relative-caret-position="327">
           <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Math/50_Pow.py">
+    <entry file="file://$PROJECT_DIR$/Math/29_Divide_Two_Integers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="31" selection-end-column="76" />
+        <state relative-caret-position="355">
+          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Math/67_Add_Binary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="347">
+          <caret line="28" column="71" lean-forward="false" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/69_Sqrt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding />
         </state>
       </provider>
