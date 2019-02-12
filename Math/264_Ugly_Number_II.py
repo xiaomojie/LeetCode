@@ -15,7 +15,8 @@ n does not exceed 1690.
 """
 
 class Solution:
-    def nthUglyNumber(self, n):
+    # time limited
+    def nthUglyNumber1(self, n):
         """
         :type n: int
         :rtype: int
@@ -31,6 +32,9 @@ class Solution:
             if num == 1:
                 n -= 1
         return res
+
+    def nthUglyNumber(self, n):
+
 
 
 print(Solution().nthUglyNumber(406))
