@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Math/264_Ugly_Number_II.py" afterPath="$PROJECT_DIR$/Math/264_Ugly_Number_II.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="171_Excel_Sheet_Column_Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/171_Excel_Sheet_Column_Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="172_Factorial_Trailing_Zeroes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/172_Factorial_Trailing_Zeroes.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,7 +36,7 @@
       <file leaf-file-name="231_Power_of_Two.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/231_Power_of_Two.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
+            <state relative-caret-position="1026">
               <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
               <folding />
             </state>
@@ -67,7 +56,7 @@
       <file leaf-file-name="263_Ugly_Number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/263_Ugly_Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
+            <state relative-caret-position="945">
               <caret line="35" column="20" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
               <folding />
             </state>
@@ -77,7 +66,7 @@
       <file leaf-file-name="50_Pow.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/50_Pow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
+            <state relative-caret-position="918">
               <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
@@ -87,7 +76,7 @@
       <file leaf-file-name="264_Ugly_Number_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/264_Ugly_Number_II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
+            <state relative-caret-position="864">
               <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding />
             </state>
@@ -97,18 +86,28 @@
       <file leaf-file-name="326_Power_of_Three.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/326_Power_of_Three.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+            <state relative-caret-position="945">
+              <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="367_Valid_Perfect_Square.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="367_Valid_Perfect_Square.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/367_Valid_Perfect_Square.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="125_Valid_Palindrome.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Two Pointers/125_Valid_Palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="37" column="19" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="37" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -129,7 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hash Table/599_Minimum_Index_Sum_of_Two_Lists.py" />
         <option value="$PROJECT_DIR$/Hash Table/645_Set_Mismatch.py" />
         <option value="$PROJECT_DIR$/Hash Table/690_Employee_Importance.py" />
         <option value="$PROJECT_DIR$/Hash Table/705_Design_HashSet.py" />
@@ -180,12 +178,13 @@
         <option value="$PROJECT_DIR$/Math/264_Ugly_Number_II.py" />
         <option value="$PROJECT_DIR$/Math/326_Power_of_Three.py" />
         <option value="$PROJECT_DIR$/Math/367_Valid_Perfect_Square.py" />
+        <option value="$PROJECT_DIR$/Two Pointers/125_Valid_Palindrome.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="680" />
-    <option name="y" value="2" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="801" />
+    <option name="y" value="20" />
     <option name="width" value="1402" />
     <option name="height" value="1020" />
   </component>
@@ -204,6 +203,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,14 +215,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Math" type="462c0819:PsiDirectoryNode" />
+              <item name="Two Pointers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,20 +244,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.264_Ugly_Number_II">
-    <configuration name="171_Excel_Sheet_Column_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.125_Valid_Palindrome">
+    <configuration name="125_Valid_Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Two Pointers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/171_Excel_Sheet_Column_Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Two Pointers/125_Valid_Palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,19 +336,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.171_Excel_Sheet_Column_Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.223_Rectangle_Area" />
-      <item index="2" class="java.lang.String" itemvalue="Python.258_Add_Digits" />
-      <item index="3" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
-      <item index="4" class="java.lang.String" itemvalue="Python.264_Ugly_Number_II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.223_Rectangle_Area" />
+      <item index="1" class="java.lang.String" itemvalue="Python.258_Add_Digits" />
+      <item index="2" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
+      <item index="3" class="java.lang.String" itemvalue="Python.264_Ugly_Number_II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.125_Valid_Palindrome" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.264_Ugly_Number_II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
-        <item index="2" class="java.lang.String" itemvalue="Python.258_Add_Digits" />
-        <item index="3" class="java.lang.String" itemvalue="Python.223_Rectangle_Area" />
-        <item index="4" class="java.lang.String" itemvalue="Python.171_Excel_Sheet_Column_Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.125_Valid_Palindrome" />
+        <item index="1" class="java.lang.String" itemvalue="Python.264_Ugly_Number_II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
+        <item index="3" class="java.lang.String" itemvalue="Python.258_Add_Digits" />
+        <item index="4" class="java.lang.String" itemvalue="Python.223_Rectangle_Area" />
       </list>
     </recent_temporary>
   </component>
@@ -406,7 +405,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="680" y="2" width="1402" height="1020" extended-state="0" />
+    <frame x="801" y="20" width="1402" height="1020" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21471025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -414,7 +413,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885087" sideWeight="0.50297177" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29656863" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29656863" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -462,13 +461,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hash Table/594_Longest_Harmonious_Subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hash Table/645_Set_Mismatch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -718,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1161">
           <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -734,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="28" column="71" lean-forward="false" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
           <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="42" selection-end-column="86" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
           <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -788,7 +774,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Math/264_Ugly_Number_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
+        <state relative-caret-position="864">
           <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding />
         </state>
@@ -796,7 +782,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Math/231_Power_of_Two.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
+        <state relative-caret-position="1026">
           <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
           <folding />
         </state>
@@ -804,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Math/263_Ugly_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
+        <state relative-caret-position="945">
           <caret line="35" column="20" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
           <folding />
         </state>
@@ -812,7 +798,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Math/50_Pow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
+        <state relative-caret-position="918">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
@@ -820,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Math/326_Power_of_Three.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="945">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -830,6 +816,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Two Pointers/125_Valid_Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="37" column="19" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="37" selection-end-column="19" />
           <folding />
         </state>
       </provider>
