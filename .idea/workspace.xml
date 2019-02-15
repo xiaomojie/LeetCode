@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="822b2312-bb05-404a-b5f6-38cae57f4ca9" name="Default" comment="modify" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,46 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="231_Power_of_Two.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/231_Power_of_Two.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="258_Add_Digits.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/258_Add_Digits.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="25" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="263_Ugly_Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/263_Ugly_Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="35" column="20" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="50_Pow.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Math/50_Pow.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="264_Ugly_Number_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/264_Ugly_Number_II.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,18 +24,58 @@
       <file leaf-file-name="5_Longest_Palindromic_Substring.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/String/5_Longest_Palindromic_Substring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
+            <state relative-caret-position="650">
               <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6_ZigZag_Conversion.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="6_ZigZag_Conversion.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/String/6_ZigZag_Conversion.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
               <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_Longest_Common_Prefix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/String/14_Longest_Common_Prefix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="53" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17_Letter_Combinations_of_a_Phone_Number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/String/17_Letter_Combinations_of_a_Phone_Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20_Valid_Parentheses.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/String/20_Valid_Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="58" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="22_Generate_Parentheses.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/String/22_Generate_Parentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,10 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hash Table/705_Design_HashSet.py" />
-        <option value="$PROJECT_DIR$/Hash Table/706_Design_HashMap.py" />
-        <option value="$PROJECT_DIR$/Hash Table/706_Design_HashMap-1.py" />
-        <option value="$PROJECT_DIR$/Hash Table/720_Longest_Word_in_Dictionary.py" />
         <option value="$PROJECT_DIR$/Hash Table/748_Shortest_Completing_Word.py" />
         <option value="$PROJECT_DIR$/Hash Table/36_Valid_Sudoku.py" />
         <option value="$PROJECT_DIR$/Hash Table/94_Binary_Tree_Inorder_Traversal.py" />
@@ -179,11 +173,16 @@
         <option value="$PROJECT_DIR$/Two Pointers/125_Valid_Palindrome.py" />
         <option value="$PROJECT_DIR$/String/5_Longest_Palindromic_Substring.py" />
         <option value="$PROJECT_DIR$/String/6_ZigZag_Conversion.py" />
+        <option value="$PROJECT_DIR$/String/14_Longest_Common_Prefix.py" />
+        <option value="$PROJECT_DIR$/String/17_Letter_Combinations_of_a_Phone_Number.py" />
+        <option value="$PROJECT_DIR$/String/20_Valid_Parentheses.py" />
+        <option value="$PROJECT_DIR$/String/22_Generate_Parentheses.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="678" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="914" />
+    <option name="y" value="11" />
     <option name="width" value="1402" />
     <option name="height" value="1020" />
   </component>
@@ -248,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.125_Valid_Palindrome">
+  <component name="RunManager" selected="Python.20_Valid_Parentheses">
     <configuration name="125_Valid_Palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,37 +266,37 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="223_Rectangle_Area" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14_Longest_Common_Prefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/223_Rectangle_Area.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/14_Longest_Common_Prefix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="258_Add_Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="20_Valid_Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/String" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math/258_Add_Digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String/20_Valid_Parentheses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,19 +339,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.223_Rectangle_Area" />
-      <item index="1" class="java.lang.String" itemvalue="Python.258_Add_Digits" />
-      <item index="2" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
-      <item index="3" class="java.lang.String" itemvalue="Python.264_Ugly_Number_II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.125_Valid_Palindrome" />
+      <item index="0" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
+      <item index="1" class="java.lang.String" itemvalue="Python.264_Ugly_Number_II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.125_Valid_Palindrome" />
+      <item index="3" class="java.lang.String" itemvalue="Python.14_Longest_Common_Prefix" />
+      <item index="4" class="java.lang.String" itemvalue="Python.20_Valid_Parentheses" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.125_Valid_Palindrome" />
-        <item index="1" class="java.lang.String" itemvalue="Python.264_Ugly_Number_II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.258_Add_Digits" />
-        <item index="4" class="java.lang.String" itemvalue="Python.223_Rectangle_Area" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20_Valid_Parentheses" />
+        <item index="1" class="java.lang.String" itemvalue="Python.14_Longest_Common_Prefix" />
+        <item index="2" class="java.lang.String" itemvalue="Python.125_Valid_Palindrome" />
+        <item index="3" class="java.lang.String" itemvalue="Python.264_Ugly_Number_II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.263_Ugly_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -409,13 +408,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="678" y="0" width="1402" height="1020" extended-state="1" />
+    <frame x="914" y="11" width="1402" height="1020" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21471025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885087" sideWeight="0.50297177" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29656863" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30392158" sideWeight="0.49702823" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -465,34 +464,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hash Table/706_Design_HashMap-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hash Table/706_Design_HashMap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hash Table/720_Longest_Word_in_Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hash Table/748_Shortest_Completing_Word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Hash Table/599_Minimum_Index_Sum_of_Two_Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -818,18 +789,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/String/6_ZigZag_Conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/String/5_Longest_Palindromic_Substring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
+        <state relative-caret-position="650">
           <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/String/6_ZigZag_Conversion.py">
+    <entry file="file://$PROJECT_DIR$/String/14_Longest_Common_Prefix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        <state relative-caret-position="297">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="53" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/17_Letter_Combinations_of_a_Phone_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/20_Valid_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="58" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/22_Generate_Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
