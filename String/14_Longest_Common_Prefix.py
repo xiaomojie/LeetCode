@@ -55,3 +55,4 @@ class Solution(object):
 
 
 
+print(Solution().longestCommonPrefix(["flower","flow","flight"]))

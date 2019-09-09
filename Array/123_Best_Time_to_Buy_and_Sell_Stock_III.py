@@ -25,7 +25,8 @@ Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
 """
 
-
+# 参照第一题，首先从前往后，保存一个数组dp1，然后从后往前，保存一个数组dp2，dp2[i]每次等于max-nums[i]
+# 然后for循环，从0～n，每个位置的利润为max(dp1[0:i]) + max(dp2[i:])
 class Solution:
     def maxProfit(self, prices):
         """

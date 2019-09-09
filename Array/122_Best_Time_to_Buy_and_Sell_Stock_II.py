@@ -24,6 +24,8 @@ Input: [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
+[1,3,5,4,6]
+
 """
 
 
@@ -39,5 +41,6 @@ class Solution:
                 max_profit += prices[i+1] - prices[i]
         return max_profit
 
-prices = [7,1,5,3,6,4]
+# prices = [7,1,5,3,6,4]
+prices = [1,3,5,4,6]
 print(Solution().maxProfit(prices))
